@@ -50,47 +50,47 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "course"
+name = "Cursos"
 URL = "course"
 weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Pages"
+name = "Páginas"
 hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "teacher"
+  name = "Profesores"
   URL = "teacher"
 
   [[menu.main]]
   parent = "Pages"
-  name = "notice"
+  name = "Noticias"
   URL = "notice"
 
   [[menu.main]]
   parent = "Pages"
-  name = "event"
+  name = "Eventos"
   URL = "event"
 
   [[menu.main]]
   parent = "Pages"
-  name = "scholarship"
+  name = "Descuentos"
   URL = "scholarship"
 
   [[menu.main]]
   parent = "Pages"
-  name = "research"
+  name = "Investigación"
   URL = "research"
   
 [[menu.main]]
-name = "blog"
+name = "Blog"
 URL = "blog"
 weight = 4
   
 [[menu.main]]
-name = "Contact"
+name = "Contáctanos"
 URL = "contact"
 weight = 5
 
@@ -98,23 +98,23 @@ weight = 5
 # footer menu
 
 [[menu.footer]]
-name = "teacher"
+name = "Profesores"
 URL = "teacher"
 
 [[menu.footer]]
-name = "notice"
+name = "Noticias"
 URL = "notice"
 
 [[menu.footer]]
-name = "event"
+name = "Eventos"
 URL = "event"
 
 [[menu.footer]]
-name = "scholarship"
+name = "Descuentos"
 URL = "scholarship"
 
 [[menu.footer]]
-name = "research"
+name = "Investigación"
 URL = "research"
 
 
@@ -125,9 +125,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Santiago de Chile"
+mobile = "+569 99887766"
+email = "contacto@academiaagil.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
