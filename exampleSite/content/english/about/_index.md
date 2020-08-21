@@ -1,23 +1,18 @@
 ---
-title: "About Us"
+title: "Nosotros"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "La agilidad cumple un rol fundamental."
 ---
 
-## ABOUT OUR JOURNY
+## AGILE PARA LOGRAR EN LUGAR DE HACER
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Agile es un poderoso conjunto de valores, principios y prácticas que puestas en manos de los trabajadores los llevan a un trabajo a la vez más humano y productivo.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Sin embargo, vemos en la mayoría de las organizaciones que buscan adoptar Agile, que los métodos se imponen sobre las personas y esto genera un pálido reflejo de lo que se podría alcanzar.
+
+En la Academia Ágil hemos recopilado 2 décadas de experiencia en Agile, y con el respaldo de entes de nivel mundial como la Kanban University y Heart of Agile Academy entregamos formación ágil práctica y a la vez basada en una nueva forma de pensar y reorganizar las dinámicas humanas.
