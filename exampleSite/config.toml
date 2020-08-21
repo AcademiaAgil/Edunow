@@ -61,7 +61,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Profesores"
+  name = "Coaches"
   URL = "teacher"
 
   [[menu.main]]
@@ -98,7 +98,7 @@ weight = 5
 # footer menu
 
 [[menu.footer]]
-name = "Profesores"
+name = "Coaches"
 URL = "teacher"
 
 [[menu.footer]]
@@ -184,7 +184,7 @@ link = "#"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = "SP"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
