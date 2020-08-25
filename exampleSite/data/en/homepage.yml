@@ -26,8 +26,8 @@ slider:
         link : "Contáctanos"
 
     # slider item loop
-    - title : "Nueva edición:Kanban System Design OnlinePavimenta tu camino para convertirte en un Kanban Management Professional"
-      content : "Este programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel"
+    - title : "Nueva edición:Kanban System Design Online"
+      content : "Pavimenta tu camino para convertirte en un Kanban Management Professional"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
