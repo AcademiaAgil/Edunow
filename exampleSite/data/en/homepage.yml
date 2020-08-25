@@ -58,9 +58,9 @@ banner_feature:
       content : " Realizamos clases personalizadas, con un equipo de coaches a cargo . Contamos con material del curso  traducido al español para que el aprendizaje sea lo más fluído."
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Requisitos"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Se espera que los asistentes tengan experiencia en sistemas kanban, hayan leído “Kanban” de David J Anderson o “Kanban from the Inside” de Mike Burrows. Es preferible la asistencia previa al Kanban System Design u otra clase del nivel KU Foundations. Haber cursado TKP ó KSD(KMP1) ó autorización de los profesores (contactarse con los profesores a contacto@leansight.com)"
 
 
 ############################## about ##################################
