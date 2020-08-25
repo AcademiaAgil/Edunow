@@ -43,14 +43,14 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Noticias de Descuentos"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Vamos que se puede ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Ven conoce nuestro programa de descuentos individuales como corporativos. Una ventaja que en la academia la hacemos a tu medida. ¡ No te lo pierdas! "
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Tablero de anuncios"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Cursos diseñados por David J. Anderson en colaboración con Mike Burrows y con el enfoque aplicado a Latinoamérica enriquecido por nuestra experiencia de 14 años. Este programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel, desde construir flujos de trabajo, gestionar resistencia a los límites del WIP, rituales para mejorar el flujo de trabajo, métricas utilizadas y políticas que definen el avance del flujo."
 
     # feature item loop
     - name : "Our Achievements"
