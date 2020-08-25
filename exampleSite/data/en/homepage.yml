@@ -97,11 +97,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Historias de éxito"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "A través de una inducción a la agilidad dirigida a los equipos directivos y sus colaboradores, se logró entender la razón de construir o no ciertas herramientas digitales, como diseñarlas, construírlas y gestionar el proceso de la transformación digital, a partir de herramientas ágiles."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
@@ -109,7 +105,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Próximos cursos"
   # event item comes from "content/**/event" folder.
 
   
