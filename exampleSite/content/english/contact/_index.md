@@ -7,4 +7,4 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Estamos listos para ti."
 ---
 
-Se puede editar fácilmente
+Si tienes alguna duda sobre los cursos, escríbenos y nos pondremos en contacto contigo inmeditamente.
