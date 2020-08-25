@@ -1,5 +1,5 @@
 ---
-title: "TKP"
+title: "Team Kanban Practitioner Online"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,15 +9,15 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-5.jpg"
 # taxonomy
-category: "Programming"
+category: "TKP"
 # teacher
 teacher: "Alejandro Vidal"
 # duration
-duration : "06 Month"
+duration : "02 Sesiones"
 # weekly
-weekly : "03 hours"
+weekly : "08 hours"
 # course fee
-fee : "From: $699"
+fee : "From: $300"
 # apply url
 apply_url : "#"
 # type
