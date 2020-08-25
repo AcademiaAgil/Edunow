@@ -1,6 +1,6 @@
 ---
 title: "Kanban System Design Online"
-date: 2020-09-10T15:27:17+06:00
+date: 2020-09-07T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,7 +11,7 @@ image: "images/courses/course-3.jpg"
 # taxonomy
 category: "KMP I"
 # teacher
-teacher: "Alex Rook"
+teacher: "Manuel Olguín"
 # duration
 duration : "04 Sesiones"
 # weekly

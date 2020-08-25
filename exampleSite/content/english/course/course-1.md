@@ -11,7 +11,7 @@ image: "images/courses/course-1.jpg"
 # taxonomy
 category: "KMP II"
 # teacher
-teacher: "Clark Malik"
+teacher: "Agustín Villena"
 # duration
 duration : "4 Sesiones"
 # weekly
@@ -62,5 +62,4 @@ labore et dolore magnam aliquam quaerat voluptatem.
 * Curso online de 4 sesiones de 3 horas y media programado para los días 22, 23, 25 y 26 de Junio. De 17 a 21 hrs (horario chileno). Se emite Certificado de Asistencia sólo a los alumnos con una asistencia superior al 75%.
 
 
- Gestionar el cambio evolutivo.eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+ Gestionar el cambio evolutivo.
