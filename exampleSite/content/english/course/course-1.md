@@ -13,9 +13,9 @@ category: "KMP II"
 # teacher
 teacher: "Clark Malik"
 # duration
-duration : "Curso online de 4 sesiones de 3 horas y media programado para los días 22, 23, 25 y 26 de Junio. De 17 a 21 hrs (horario chileno). Se emite Certificado de Asistencia sólo a los alumnos con una asistencia superior al 75%"
+duration : "4 Sesiones"
 # weekly
-weekly : "03 hours"
+weekly : "14 hours"
 # course fee
 fee : "From: $699"
 # apply url
