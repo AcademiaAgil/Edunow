@@ -1,5 +1,5 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "Título de posteo"
 date: 2020-09-06T15:27:17+06:00
 draft: false
 # page title background image
