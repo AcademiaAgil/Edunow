@@ -4,14 +4,14 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Kanban para gestionar el flujo. ¡Empieza con lo que haces ahora!"
+      content : "Contamos con un programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel. En la  Academia Ágil de Leansight contamos con un certificado por Lean Kanban University, nuestros cursos Kanban System Improvement Online, sumado al curso Kanban System Design (2 días) otorgan la acreditación profesional KMP."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Lo Quiero ahora"
         link : "contact"
 
     # slider item loop
@@ -99,7 +99,7 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
+  title : "Historias de éxito"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
             
             
