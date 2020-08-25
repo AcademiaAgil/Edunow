@@ -53,9 +53,9 @@ banner_feature:
       content : "Cursos diseñados por David J. Anderson en colaboración con Mike Burrows y con el enfoque aplicado a Latinoamérica enriquecido por nuestra experiencia de 14 años. Este programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel, desde construir flujos de trabajo, gestionar resistencia a los límites del WIP, rituales para mejorar el flujo de trabajo, métricas utilizadas y políticas que definen el avance del flujo."
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Nuestros Logros"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : " Realizamos clases personalizadas, con un equipo de coaches a cargo . Contamos con material del curso  traducido al español para que el aprendizaje sea lo más fluído."
 
     # feature item loop
     - name : "Admission Now"
