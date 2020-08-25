@@ -1,110 +1,110 @@
 - id: read_more
-  translation: Read More
+  translation: Leer más
 
 - id: contact_form
-  translation: Contact Form
+  translation: Formulario de contacto
 
 - id: send
-  translation: send message
+  translation: Enviar mensaje
 
 - id: contact_info
-  translation: Contact Info
+  translation: Datos de contacto
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Suscribirse al boletín informativo
 
 - id: subscribe
-  translation: Subscribe
+  translation: Suscribirse
 
 - id: contact_us
-  translation: Contact Us
+  translation: Contáctanos
 
 - id: latest_article
-  translation: Latest Article
+  translation: Último artículo
 
 - id: categories
-  translation: Categories
+  translation: Categorias
 
 - id: tags
   translation: Tags
 
 - id: see_all
-  translation: See all
+  translation: Ver todo
 
 - id: apply_now
-  translation: Apply now
+  translation: Aplicar ahora
 
 - id: posted_by
-  translation: Posted by
+  translation: Publicado por
 
 - id: date
-  translation: Date
+  translation: Fecha
 
 - id: time
-  translation: time
+  translation: Hora
 
 - id: category
-  translation: Category
+  translation: Categoría
 
 - id: related_course
-  translation: Related Course
+  translation: Curso relacionado
 
 - id: duration
-  translation: duration
+  translation: Duración
 
 - id: weekly
-  translation: weekly
+  translation: Semanal
 
 - id: fee
-  translation: fee
+  translation: Costo
 
 - id: teacher
-  translation: teacher
+  translation: Couch
 
 - id: location
-  translation: location
+  translation: Localización
 
 - id: entry_fee
-  translation: entry fee
+  translation: Inscripción
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: Couches de Eventos
 
 - id: more_event
-  translation: More Events
+  translation: Más Eventos
 
 - id: join
-  translation: Join
+  translation: Unirse
   
 - id: enter_email
-  translation: Enter your email…
+  translation: Ingresa tu E-mail
 
 - id: company
-  translation: company
+  translation: Empresa
 
 - id: links
-  translation: links
+  translation: Links
 
 - id: courses
-  translation: Courses
+  translation: Cursos
 
 - id: new_notice
-  translation: new notice
+  translation: Nuevas noticias
 
 - id: call
-  translation: call
+  translation: Llamada
 
 - id: email
-  translation: email
+  translation: E-mail
 
 - id: all
-  translation: All
+  translation: Todo
 
 - id: interest
-  translation: SUMMARY OF ACTIVITIES/INTERESTS
+  translation: Resumen de actividades
 
 - id: our_teachers
-  translation: Our Teachers
+  translation: Nuestros Couches
 
 - id: download
-  translation: Download
+  translation: Descarga
