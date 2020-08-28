@@ -179,7 +179,7 @@ link = "https://www.linkedin.com/company/leansight/"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "SP"
+languageName = "ES"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
