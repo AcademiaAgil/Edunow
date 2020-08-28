@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Bussines Agility Coach, Acredited Kanban Trainer Kanban University, Sherpa en Agilidad Organizacional."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/teachers/teacher-3.jpg"
 # course
 course: "Vlogging"
 # biography

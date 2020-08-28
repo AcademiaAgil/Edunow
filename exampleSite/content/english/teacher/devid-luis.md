@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Leansight Business Agility Coach, Organizational Agility Coach, Accredited Kanban Trainer."
 # teacher portrait
-image: "images/teachers/teacher-3.jpg"
+image: "images/teachers/teacher-2.jpg"
 # course
 course: "Humanities"
 # biography
