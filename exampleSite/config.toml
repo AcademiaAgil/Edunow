@@ -56,7 +56,7 @@ weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Páginas"
+name = "Pages"
 hasChildren = true
 
   [[menu.main]]
