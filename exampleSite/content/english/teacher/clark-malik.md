@@ -4,13 +4,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Lean Agile Practitioner devoted to improve work cultures in the Creative Knowledge Industry. Pioneer of Agile in Chile."
 # teacher portrait
 image: "images/teachers/teacher-1.jpg"
 # course
 course: "Computer Science"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Lean Agile Practitioner devoted to improve work cultures in the Creative Knowledge Industry. Pioneer of Agile in Chile."
 # interest
 interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -54,7 +54,7 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### Acerca de mí
 
 Lean Agile Practitioner devoted to improve work cultures in the Creative Knowledge Industry. Pioneer of Agile in Chile.
 
