@@ -9,7 +9,7 @@ description : "Este programa de alto desempeño integra los conceptos de managem
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
-category: "KMP I"
+category: "KMPI"
 # teacher
 teacher: "Manuel Olguín"
 # duration
