@@ -1,23 +1,23 @@
 ---
-title: "Kanban System Improvement Online"
+title: "Kanban System Design Online"
 date: 2020-09-07 T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Pavimenta tu camino para convertirte en un Kanban Management Professional."
+description : "Este programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel."
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
 category: "KMPI"
 # teacher
-teacher: "Agustín Villena"
+teacher: "Manuel Olguín"
 # duration
 duration : "4 Sesiones"
 # weekly
-weekly : "14 hours"
+weekly : "12 hours"
 # course fee
-fee : "From: $699"
+fee : "From: $500"
 # apply url
 apply_url : "#"
 # type
