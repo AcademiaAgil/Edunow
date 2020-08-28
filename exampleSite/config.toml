@@ -56,31 +56,31 @@ weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Pages"
+name = "Páginas"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Páginas"
   name = "Coaches"
   URL = "teacher"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Páginas"
   name = "Noticias"
   URL = "notice"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Páginas"
   name = "Eventos"
   URL = "event"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Páginas"
   name = "Descuentos"
   URL = "scholarship"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Páginas"
   name = "Investigación"
   URL = "research"
   
