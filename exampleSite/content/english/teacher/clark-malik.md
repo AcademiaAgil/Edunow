@@ -56,9 +56,21 @@ type: "teacher"
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+Lean Agile Practitioner devoted to improve work cultures in the Creative Knowledge Industry. Pioneer of Agile in Chile.
 
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Follower of all ways to make people share knowledge, create and collaborate for mankind's well-being.
+My aim is to help chilean and southamerican knowledge industry to achieve better ways of collaboration, relentless improvement and therefore improve social development
+
+Specialties: Agile Coaching,
+Agile Software Development, 
+eXtreme Programming, 
+Kanban,
+Scrum,
+Lean Software Development,
+Kanban for Software Engineering,
+Teamwork, 
+Educational Software
+Software Engineering Education
+Document Interoperability, 
+HTTP-based Web services (RESTful services), 
+XML & Digital Signatures 
