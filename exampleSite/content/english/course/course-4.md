@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Pavimenta tu camino para convertirte en un Kanban Management Professional."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/course-2.jpg"
 # taxonomy
 category: "KMPI"
 # teacher
