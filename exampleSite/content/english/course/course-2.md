@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Este programa de alto desempeño integra los conceptos de management necesarios para gestionar un sistema kanban a todo nivel."
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/courses/course-2.jpg"
 # taxonomy
 category: "KMP I"
 # teacher

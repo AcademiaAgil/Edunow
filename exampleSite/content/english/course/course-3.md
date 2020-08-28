@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Aprende agilidad reflexionando con detenimiento."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/course-3.jpg"
 # taxonomy
 category: "TKP"
 # teacher
