@@ -9,7 +9,7 @@ description : "Pavimenta tu camino para convertirte en un Kanban Management Prof
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "KMPI"
+category: "KMPII"
 # teacher
 teacher: "Agustín Villena"
 # duration
