@@ -45,52 +45,52 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
-name = "Nosotros"
+name = "About"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Cursos"
+name = "course"
 URL = "course"
 weight = 2
 
 [[menu.main]]
 weight = 3
-name = "Páginas"
+name = "Pages"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Páginas"
-  name = "Coaches"
+  parent = "Pages"
+  name = "teacher"
   URL = "teacher"
 
   [[menu.main]]
-  parent = "Páginas"
-  name = "Noticias"
+  parent = "Pages"
+  name = "notice"
   URL = "notice"
 
   [[menu.main]]
-  parent = "Páginas"
-  name = "Eventos"
+  parent = "Pages"
+  name = "event"
   URL = "event"
 
   [[menu.main]]
-  parent = "Páginas"
-  name = "Descuentos"
+  parent = "Pages"
+  name = "scholarship"
   URL = "scholarship"
 
   [[menu.main]]
-  parent = "Páginas"
-  name = "Investigación"
+  parent = "Pages"
+  name = "research"
   URL = "research"
   
 [[menu.main]]
-name = "Blog"
+name = "blog"
 URL = "blog"
 weight = 4
   
 [[menu.main]]
-name = "Contáctanos"
+name = "Contact"
 URL = "contact"
 weight = 5
 
@@ -98,36 +98,36 @@ weight = 5
 # footer menu
 
 [[menu.footer]]
-name = "Coaches"
+name = "teacher"
 URL = "teacher"
 
 [[menu.footer]]
-name = "Noticias"
+name = "notice"
 URL = "notice"
 
 [[menu.footer]]
-name = "Eventos"
+name = "event"
 URL = "event"
 
 [[menu.footer]]
-name = "Descuentos"
+name = "scholarship"
 URL = "scholarship"
 
 [[menu.footer]]
-name = "Investigación"
+name = "research"
 URL = "research"
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.svg"
+logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "Santiago de Chile"
-mobile = "+569 99887766"
-email = "academia@agil.cl"
+address = "9567 Turner Trace Apt. BC C3G8A4"
+mobile = "+211234565523"
+email = "info@educenter.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -159,12 +159,12 @@ map_marker = "images/marker.png" # marker size 37*55 px
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/leansight"
+link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/leansight"
+link = "#"
 
 [[params.social]]
 title = "instagram"
@@ -172,14 +172,19 @@ icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/leansight/"
+link = "#"
 
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "ES"
+languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
